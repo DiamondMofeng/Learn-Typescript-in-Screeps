@@ -6,4 +6,5 @@ coverY: 0
 
 ## 欢迎来到《在Screeps中学习Typescript》！
 
-Welcome!
+要开始学习，请移步[简介](主页/jian-jie.md)
+
